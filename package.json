@@ -3,7 +3,7 @@
   "description": "Server for the Apollo Client getting started demo",
   "dependencies": {
     "apollo-datasource-rest": "latest",
-    "apollo-server": "2.1.0",
+    "apollo-server": "2.25.4",
     "graphql": "14.0.2",
     "lodash": "4.17.11",
     "lru-cache": "4.1.2",
